@@ -1,4 +1,5 @@
 🧠 Intelligent Image Classification using Modified Convolutional Neural Networks (CNN)
+
 An innovative approach to image classification that not only leverages the power of CNNs but also introduces layer-wise performance analysis and adaptive retraining. This project redefines how we interpret and improve deep learning models by using partial feature representations for training and prediction.
 
 🚀 Project Overview
